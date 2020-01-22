@@ -5,5 +5,6 @@ class Student < User
   end 
   
   def 
+  end 
 
 end
